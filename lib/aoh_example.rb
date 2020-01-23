@@ -13,7 +13,7 @@ def assembled_aoh
     DON_G,
     JOELLE_VD,
     PAT_M,
-    Bruce
+    BRUCE_G
   ]
 end
 
